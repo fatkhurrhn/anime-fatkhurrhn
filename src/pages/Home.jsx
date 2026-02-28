@@ -428,7 +428,7 @@ export default function Home() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="/aplikasi/mykisah.apk"
+                href="https://sfile.co/4TWUe6elVO2"
                 className="group bg-[#111]/70 backdrop-blur-xl border-2 border-[#f3a143]/30 text-white px-8 py-4 rounded-2xl font-bold text-base flex items-center justify-center gap-4 hover:border-[#f3a143] hover:-translate-y-1 transition hover:shadow-[0_15px_40px_rgba(243,161,67,0.3)]"
               >
                 <i className="fas fa-mobile text-3xl text-[#f3a143] group-hover:scale-110 transition"></i>
@@ -505,7 +505,7 @@ export default function Home() {
               </h3>
               <ul className="space-y-3">
                 <li>
-                  <a href="/aplikasi/mykisah.apk" className="text-gray-400 hover:text-[#f3a143] transition flex items-center gap-2 text-sm">
+                  <a href="https://sfile.co/4TWUe6elVO2" className="text-gray-400 hover:text-[#f3a143] transition flex items-center gap-2 text-sm">
                     <i className="fab fa-android"></i> APK Android
                   </a>
                 </li>
